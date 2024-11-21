@@ -25,3 +25,5 @@ Although it's recommended to use the default integrations, in some cases, full s
 Run this example online via [StackBlitz](https://stackblitz.com/github.com/oedotme/generouted/tree/main/examples/react-router-custom-path):
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/oedotme/generouted/tree/main/examples/react-router-custom-path)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/oedotme/generouted)
